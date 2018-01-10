@@ -1,0 +1,27 @@
+{
+    "name": "baidu-bundle/baidu-push-bundle",
+    "description": "baidu push 3 bundle for Symfony 3",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/gongzuozhong/baidu_push.git"
+        }
+    ],
+    "authors": [
+        {
+            "name": "baidu",
+            "homepage": "http://zxkedu.com"
+        }
+    ],
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "BaiduBundle\\PushBundle\\": ""
+        }
+    }
+}
