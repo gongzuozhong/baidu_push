@@ -32,28 +32,28 @@ class BAIDU_PUSH_CONFIG {
      * 当代码中未设置apikey时,使用此apikey
      * @var string
      */
-    const default_apiKey = '4RLxhUAYMVntVkhpVhQgFFDG';
+    const default_apiKey = '4RLxhUAYMVntVkhpVhQgFFDG01';
     
     /**
      * 开发者当前secretKey, 在应用重新生成secret key后, 旧的secret key将失效, 由开发者中心(http://developer.baidu.com)获取.
      * 当代码中未设置apikey时,使用此secretkey
      * @var string
      */
-    const default_secretkey = 'zzFuPcrDq5l2oMGoLOX9Fj6NtHpKVLHN';
+    const default_secretkey = 'zzFuPcrDq5l2oMGoLOX9Fj6NtHpKVLHN01';
 	
 	/**
      * 开发者apikey, 由开发者中心(http://developer.baidu.com)获取, 
      * 当代码中未设置apikey时,使用此apikey
      * @var string
      */
-    const default_apiKey_ios = 'w9cfjRYENuMgI03BV6a4COn6';
+    const default_apiKey_ios = 'w9cfjRYENuMgI03BV6a4COn601';
     
     /**
      * 开发者当前secretKey, 在应用重新生成secret key后, 旧的secret key将失效, 由开发者中心(http://developer.baidu.com)获取.
      * 当代码中未设置apikey时,使用此secretkey
      * @var string
      */
-    const default_secretkey_ios = 'OMFHPNEAXmW9g9XmyxFKyxpvyRCeyRGb';
+    const default_secretkey_ios = 'OMFHPNEAXmW9g9XmyxFKyxpvyRCeyRGb01';
     
     /**
      * 默认发送的devicetype
